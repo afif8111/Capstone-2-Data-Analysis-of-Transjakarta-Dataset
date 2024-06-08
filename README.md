@@ -7,5 +7,7 @@ For Data Cleaning, Checking for duplicate values and null values is conducted. D
 ## Processing and Analysis
 For Analysis, Adding region column to identify in which part of Jakarta is the stops located. The region column using the latitude and longitude that provided in the dataset, matched with the latitude and longitude of the region boundaries, obtained from the BPS Indonesia as the data source. Some Graphic also made to identify the busiest hour each day of week, most corridor used, and Busiest stop. For further analysis, tableau is utilized.
 The cleaned data is saved in a new .csv file.
+## Data Visualization
+For visualization, author use tableau public. Here is the link to the tableau public: https://public.tableau.com/app/profile/afif.ariqulfikri/viz/Capstone2_17176925536650/Story1
 ## Contribution
 Please feel free to open a pull request, sent to my email ariqulfikri@gmail.com or submit an issue if you have suggestions or encountered any problem.
